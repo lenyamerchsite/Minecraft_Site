@@ -1,0 +1,125 @@
+body{
+    background-image: url(images/fon.png);
+}
+h2{
+    color: rgb(255, 10, 10);
+    text-shadow: 2px 3px 4px #00ff6a;
+}
+.rmenu{
+    display: flex;
+}
+.pmenu{
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.rapper{
+    display: flex;
+    justify-content: space-between;
+}
+.aa{
+    justify-content: flex-end;
+    display: flex;
+}
+a{
+    color: white;
+}
+.img2{
+    width: 1000px;
+    height: 600px;
+    margin: 50px;
+}
+.minecraft{
+    color: white;
+    position: absolute;
+    left: 35%;
+   top: 35%;
+    max-width: 600px;
+}
+.sect2{
+     background-color: black;
+     position: relative;
+}
+.abc{
+    margin-right: 380px;
+}
+.ab{
+    margin-top: -85px;
+}
+.img5{
+    margin-left: 350px;
+}
+.whatisminecraft1{
+    display: flex;
+}
+.main2{
+    max-width: 500px;
+    margin-left: 20px;
+    margin-top: 70px;
+}
+.rapper2{
+    display: flex;
+}
+.whatisminecraft2{
+    display: flex;
+}
+.whatisminecraft3{
+    display: flex;
+}
+.slendertext{
+    color: red;
+    text-shadow: none;
+    margin-left: 1150px;
+    margin-top: -300px;
+}
+.slenderimage{
+    margin-left: 200px;
+}
+.mobtext{
+    margin-left: 900px;
+    color: white;
+}
+.butt{
+    margin-left: 900px;
+    margin-top: 50px;
+    background-color: coral;
+    color: white;
+    border-radius: 12px;
+    font-size: 15px;
+    padding: 20px;
+}
+.slender{
+    min-width: 200px;
+    border: 2px solid black;
+}
+.main3{
+    border: 7px solid black;
+}
+legend{
+    color: white;
+}
+fieldset{
+    max-width: 300px;
+}
+.inputi{
+    color: white;
+}
+.formn{
+    padding: 30px;
+    border: 1px solid red;
+    border-radius: 3px;
+    max-width: 400px;
+    margin-top: 19px;
+}
+.buttcss{
+    border: 1px solid black;
+    border-radius: 1000px;
+    background-color: orange;
+    margin-top: 15px;
+    padding: 10px;
+
+}
+.login{
+    margin-left: 10px;
+    margin-right: 10px;
+}
